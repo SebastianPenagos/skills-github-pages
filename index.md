@@ -1,4 +1,10 @@
 ---
-title: Welcome to my blog
+title: First example :D
 ---
 
+`code`
+
+```
+javasrip
+dasdadasd
+```
